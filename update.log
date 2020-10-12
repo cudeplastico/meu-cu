@@ -1,0 +1,69 @@
+[120:285:01:00:34:0352]     ---------------------------------------------
+[120:285:01:00:34:0368]     checking launcher version
+[120:285:01:00:35:0386]     Patch Addition files
+[120:285:01:00:37:3502]     file updated: ads_version_tmp
+[120:285:01:00:37:3502]     file updated: ads_files_tmp
+[120:285:01:00:43:3502]     file updated: ads/languagedata_es.loc
+[120:285:01:00:48:3502]     file updated: ads/languagedata_pt.loc
+[120:285:01:00:48:0428]     do patch
+[120:285:01:00:48:0600]     downloading ssvi
+[120:285:01:00:49:2209]     download completed - C:\Program Files (x86)\Steam\steamapps\common\Black Desert Online SA\patch_temp\ssvi
+[120:285:01:00:49:0620]     latest version: 992
+[120:285:01:00:49:2332]     creating csvi
+[120:285:01:00:49:0631]     client version: 985
+[120:285:01:00:51:0707]     doing consecutive procedures
+[120:285:01:00:58:2209]     download completed - C:\Program Files (x86)\Steam\steamapps\common\Black Desert Online SA\patch_temp\986.PAP
+[120:285:01:00:58:0817]     applying
+[120:285:01:01:34:0850]     patched: C:\Program Files (x86)\Steam\steamapps\common\Black Desert Online SA\patch_temp\986.PAP
+[120:285:01:01:34:0858]     csvi updated: 986
+[120:285:01:01:35:2209]     download completed - C:\Program Files (x86)\Steam\steamapps\common\Black Desert Online SA\patch_temp\987.PAP
+[120:285:01:01:35:0817]     applying
+[120:285:01:01:39:0850]     patched: C:\Program Files (x86)\Steam\steamapps\common\Black Desert Online SA\patch_temp\987.PAP
+[120:285:01:01:39:0858]     csvi updated: 987
+[120:285:01:01:48:2209]     download completed - C:\Program Files (x86)\Steam\steamapps\common\Black Desert Online SA\patch_temp\988.PAP
+[120:285:01:01:48:0817]     applying
+[120:285:01:02:15:0850]     patched: C:\Program Files (x86)\Steam\steamapps\common\Black Desert Online SA\patch_temp\988.PAP
+[120:285:01:02:15:0858]     csvi updated: 988
+[120:285:01:03:32:2209]     download completed - C:\Program Files (x86)\Steam\steamapps\common\Black Desert Online SA\patch_temp\989.PAP
+[120:285:01:03:32:0817]     applying
+[120:285:01:07:05:0850]     patched: C:\Program Files (x86)\Steam\steamapps\common\Black Desert Online SA\patch_temp\989.PAP
+[120:285:01:07:05:0858]     csvi updated: 989
+[120:285:01:07:38:2209]     download completed - C:\Program Files (x86)\Steam\steamapps\common\Black Desert Online SA\patch_temp\990.PAP
+[120:285:01:07:38:0817]     applying
+[120:285:01:08:56:0850]     patched: C:\Program Files (x86)\Steam\steamapps\common\Black Desert Online SA\patch_temp\990.PAP
+[120:285:01:08:56:0858]     csvi updated: 990
+[120:285:01:09:40:2209]     download completed - C:\Program Files (x86)\Steam\steamapps\common\Black Desert Online SA\patch_temp\991.PAP
+[120:285:01:09:40:0817]     applying
+[120:285:01:10:58:0850]     patched: C:\Program Files (x86)\Steam\steamapps\common\Black Desert Online SA\patch_temp\991.PAP
+[120:285:01:10:58:0858]     csvi updated: 991
+[120:285:01:11:00:2209]     download completed - C:\Program Files (x86)\Steam\steamapps\common\Black Desert Online SA\patch_temp\992.PAP
+[120:285:01:11:00:0817]     applying
+[120:285:01:11:01:0850]     patched: C:\Program Files (x86)\Steam\steamapps\common\Black Desert Online SA\patch_temp\992.PAP
+[120:285:01:11:01:0858]     csvi updated: 992
+[120:285:01:11:01:1308]     ---------------------------------------------
+[120:285:01:11:01:1309]     $$$$$$$$$ doPatchWinLicense $$$$$$$$$
+[120:285:01:11:01:1324]     parsing metafile
+[120:285:01:11:01:1351]     download win license
+[120:285:01:11:02:0399]         !ERROR! failed to response : 404
+[120:285:01:11:02:3483]         !ERROR! failed to download file: bin/BlackDesert32.dat.tmp
+[120:285:01:11:02:1503]         !ERROR! failed to download win license file
+[120:285:01:11:02:1354]         !ERROR! failed to download win WinLicense file(ver:992-1)
+[120:285:01:11:02:0881]         !ERROR! failed to download win license file
+[120:285:01:11:02:0894]     process done
+[120:285:01:11:02:0437]     *** repeat
+[120:285:01:11:02:0600]     downloading ssvi
+[120:285:01:11:02:2209]     download completed - C:\Program Files (x86)\Steam\steamapps\common\Black Desert Online SA\patch_temp\ssvi
+[120:285:01:11:02:0620]     latest version: 992
+[120:285:01:11:02:2332]     creating csvi
+[120:285:01:11:02:0631]     client version: 992
+[120:285:01:11:02:0665]     up-to-date
+[120:285:01:11:02:1308]     ---------------------------------------------
+[120:285:01:11:02:1309]     $$$$$$$$$ doPatchWinLicense $$$$$$$$$
+[120:285:01:11:02:1324]     parsing metafile
+[120:285:01:11:02:1351]     download win license
+[120:285:01:11:03:0399]         !ERROR! failed to response : 404
+[120:285:01:11:03:3483]         !ERROR! failed to download file: bin/BlackDesert32.dat.tmp
+[120:285:01:11:03:1503]         !ERROR! failed to download win license file
+[120:285:01:11:03:1354]         !ERROR! failed to download win WinLicense file(ver:992-1)
+[120:285:01:11:03:0670]         !ERROR! failed to download WinLicense file
+[120:285:01:11:03:0481]     patch done
